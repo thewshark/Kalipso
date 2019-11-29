@@ -1,6 +1,6 @@
-# MSS
-Mobile Sales System Application
+# Kalipso Components
+All the components programmed by our company!
 
-BachOffice and Terminals Update
+Some of them need licensing, you can contact our support for more information.
 
 **************************************************************************
