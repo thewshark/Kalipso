@@ -1,6 +1,6 @@
-# MSS
-Mobile Sales System Application
+# Kalipso Designer
+The multi deploy programming framework tool
 
-BachOffice and Terminals Update
+Samples and updates...
 
 **************************************************************************
