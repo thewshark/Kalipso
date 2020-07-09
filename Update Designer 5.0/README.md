@@ -1,4 +1,4 @@
-# Kalipso Designer 5.0 RC Update
+# Kalipso Designer 5.0 Update
 
 We have included 4 main updates to the Kalipso Designer 5.0 Version
 
