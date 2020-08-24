@@ -6,6 +6,6 @@ Tab Usage Sample.zip
 
 KAL Version: V 5.0
 
-Show in a simple way the usage from a tab object.
+Show in a simple way the usage from a scroll area object.
 
 ***************************************************************
