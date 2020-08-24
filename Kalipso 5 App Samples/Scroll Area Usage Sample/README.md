@@ -2,7 +2,7 @@
 All our samples are identified by a name, made in what version and their intent.
 
 ***************************************************************
-Tab Usage Sample.zip
+Scroll Area Usage Sample.zip
 
 KAL Version: V 5.0
 
